@@ -139,7 +139,7 @@ Publik abstrakt metod som ska returnera en textbeskrivning av objektet.
 
 ### Klassen `Shape2D`
 
-Den abstrakta klassen `Shape2D` innehåller såväl konkreta som abstrakta medlemmar gemensamma för figurer som ellips och rektangel. I figur 3 visas de abstrakta medlemmarna med kursiv text.
+Den abstrakta klassen `Shape2D` innehåller såväl konkreta som abstrakta medlemmar gemensamma för figurer som ellips och rektangel. I figur 4 visas de abstrakta medlemmarna med kursiv text.
 
 <img src="img/Shape2D.png" />
 <figcaption>Figur 4. Klassdiagram Shape2D.</figcaption>
@@ -260,7 +260,7 @@ Klassen `Rectangle` ärver från den abstrakta basklassen `Shape2D`. I och med a
 
 ### Klassen `Shape3D`
 
-Den abstrakta klassen `Shape3D` innehåller såväl konkreta som abstrakta medlemmar gemensamma för figurer som rätblock, cylinder och sfär. I figur 6 visas de abstraktafmedlemmarna med kursiv text.
+Den abstrakta klassen `Shape3D` innehåller såväl konkreta som abstrakta medlemmar gemensamma för figurer som rätblock, cylinder och sfär. I figur 7 visas de abstrakta medlemmarna med kursiv text.
 
 <img src="img/Shape3D.png" />
 <figcaption>Figur 7. Klassdiagram Shape3D</figcaption>
